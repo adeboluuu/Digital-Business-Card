@@ -24,7 +24,7 @@ body {
 }
 .image{
     width: 317px;
-    height: 267px;
+    height: 277px;
     border-radius: 10px 10px 0px 0px;
 }
 .info{
@@ -71,19 +71,24 @@ button{
     font-size: 16px;
     line-height: 24px;
     margin: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
     color: #F5F5F5;
 }
 .about-section{
     padding-left: 40px;
     padding-right: 40px;
     background-color: #1A1B21;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 0px;
+    padding-bottom: 1px;
 }
 .about-details{
     font-weight: 400;
     font-size: 10.24px;
     color: #DCDCDC;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 6px;
 }
 .footer-section{
     background-color: 
